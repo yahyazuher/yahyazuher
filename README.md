@@ -2,8 +2,7 @@
 
 <p>
 Welcome to my page <br/>
-I'm Yahya, a developer from <b>Kirkuk, Iraq</b>.<br/>
-Studying at <b>NTU</b>.<br/>
+I'm Yahya, a developer from <b>Kirkuk, Iraq</b>.<br/>Studying at <b>NTU</b>.<br/>
 Interested in programming, data science, and software development.
 </p>
 
