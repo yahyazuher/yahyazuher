@@ -31,17 +31,6 @@ Interested in programming, data science, and software development.
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 </p>
 
-<h3>Tools & Software</h3>
-<p>
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img alt="GIMP" src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" />
-  <img alt="Krita" src="https://img.shields.io/badge/-Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" />
-  <img alt="DaVinci Resolve" src="https://img.shields.io/badge/-DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white" />
-  <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
 
 
 <h3>Where to find me</h3>
@@ -49,7 +38,7 @@ Interested in programming, data science, and software development.
   <a href="mailto:me@yahyaz.dev">
     <img alt="Email" src="https://img.shields.io/badge/Email_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yahyaz.dev" target="_blank">
+  <a href="https://me.yahyaz.dev" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:cv@yahyaz.dev">
@@ -59,8 +48,3 @@ Interested in programming, data science, and software development.
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
-
