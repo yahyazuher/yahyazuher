@@ -6,10 +6,9 @@ I'm Yahya, a Software Engineer and Home Lab enthusiast from <b>Kirkuk, Iraq</b>.
 Completed my studies at <b>Northern Technical University (NTU)</b> and currently waiting for my graduation degree.
 </p>
 
-<h3>What I'm currently working on</h3>
-<ul>
+<h3>Built & Deployed Projects</h3><ul>
   <li>
-    <b>Home Lab & Enterprise Infrastructure:</b> Building a self-hosted environment using <b>Proxmox VE</b> as a bare-metal hypervisor, focusing on virtualization, network isolation, and Docker containers.
+    <b>Home Lab & Enterprise Infrastructure:</b> Building a self-hosted environment using <b>Proxmox VE</b> as a bare-metal hypervisor, focusing on virtualization, network isolation, and Docker containers <a href="https://github.com/yahyazuher/Proxmox-Home-Lab">Proxmox-Home-Lab</a>.
   </li>
   <li>
     <b>Media Automation Stack:</b> Deploying automated pipelines using the Servarr stack (<b>Radarr, Sonarr, qBittorrent</b>) integrated with <b>Jellyfin</b>, securely exposed via <b>Cloudflare Tunnels</b>.
