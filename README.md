@@ -51,14 +51,13 @@ Completed my studies at <b>Northern Technical University (NTU)</b> and currently
 
 <h3>Where to find me</h3>
 <p>
-<a href="mailto:me@yahyaz.dev">
+  <a href="mailto:me@yahyaz.dev">
     <img alt="Email" src="https://img.shields.io/badge/Email_Me-F38020?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yahyaz.dev" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  
-  <a href="https://github.com/yahyazuher" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yahyazuher/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
