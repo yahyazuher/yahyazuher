@@ -1,7 +1,6 @@
 <h1>ًWelcome</h1>
 
 <p>
-Welcome to my page <br/>
 I'm Yahya, a Software Engineer and Home Lab enthusiast from <b>Kirkuk, Iraq</b>.<br/>
 Completed my studies at <b>Northern Technical University (NTU)</b> and currently waiting for my graduation degree.
 </p>
