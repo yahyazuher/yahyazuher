@@ -1,4 +1,4 @@
-<h1>ًWelcome</h1>
+<h1>Welcome</h1>
 
 <p>
 I'm Yahya, a Software Engineer and Home Lab enthusiast from <b>Kirkuk, Iraq</b>.<br/>
